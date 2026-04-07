@@ -76,9 +76,13 @@
 - `references/learning-resources.md`：学习与延伸资源
 - `references/external-inspiration-map.md`：同类开源项目可吸收点整理
 - `references/glossary.md`：术语库
+- `references/ten-gods.md`：十神详解
 - `references/mingli-rules.md`：命理规则摘要
+- `references/patterns-and-structures.md`：格局与结构摘要
 - `references/divination-rules.md`：占卜规则摘要
+- `references/divination-question-guide.md`：占卜问法指南
 - `references/fengshui-rules.md`：风水规则摘要
+- `references/fengshui-scenarios.md`：风水场景指南
 - `references/analysis-examples.md`：分析示例库
 - `ROADMAP.md`：后续迭代路线图
 
@@ -122,7 +126,11 @@ git clone https://github.com/lupengbo/metaphysics-classics-guide.git
 - 增加经典依据层整理
 - 增加交互式信息采集建议
 - 增加术语库
+- 增加十神详解
+- 增加格局与结构摘要
 - 增加命理 / 占卜 / 风水规则摘要
+- 增加占卜问法指南
+- 增加风水场景指南
 - 增加分析示例库
 - 优化公开发布时的边界表达
 
