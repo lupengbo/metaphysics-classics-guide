@@ -75,6 +75,10 @@
 - `references/interactive-intake.md`：交互式信息采集建议
 - `references/learning-resources.md`：学习与延伸资源
 - `references/external-inspiration-map.md`：同类开源项目可吸收点整理
+- `references/glossary.md`：术语库
+- `references/mingli-rules.md`：命理规则摘要
+- `references/divination-rules.md`：占卜规则摘要
+- `references/fengshui-rules.md`：风水规则摘要
 - `ROADMAP.md`：后续迭代路线图
 
 ## 安装教程
@@ -116,6 +120,8 @@ git clone https://github.com/lupengbo/metaphysics-classics-guide.git
 - 增加风水分析模板
 - 增加经典依据层整理
 - 增加交互式信息采集建议
+- 增加术语库
+- 增加命理 / 占卜 / 风水规则摘要
 - 优化公开发布时的边界表达
 
 ## Disclaimer
