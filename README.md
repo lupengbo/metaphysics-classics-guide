@@ -72,7 +72,6 @@
 - `references/classical-analysis-basis.md`：经典依据层整理
 - `references/interactive-intake.md`：交互式信息采集建议
 - `references/learning-resources.md`：学习与延伸资源
-- `references/external-inspiration-map.md`：同类开源项目可吸收点整理
 - `references/glossary.md`：术语库
 - `references/ten-gods.md`：十神详解
 - `references/mingli-rules.md`：命理规则摘要
@@ -111,25 +110,6 @@ git clone https://github.com/lupengbo/metaphysics-classics-guide.git
 - 帮我占卜一下这个事能不能成
 - 帮我看一下未来半年走势
 - 帮我做一份风水分析草稿
-
-## v1.1.0
-
-- 增加免责声明
-- 补充玄学分析与走势解读场景说明
-- 增加八字 / 四柱 / 命盘分析模板
-- 增加占卜分析模板
-- 增加走势预测模板
-- 增加风水分析模板
-- 增加经典依据层整理
-- 增加交互式信息采集建议
-- 增加术语库
-- 增加十神详解
-- 增加格局与结构摘要
-- 增加命理 / 占卜 / 风水规则摘要
-- 增加占卜问法指南
-- 增加风水场景指南
-- 增加分析示例库
-- 优化公开发布时的边界表达
 
 ## 免责声明
 
