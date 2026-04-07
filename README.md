@@ -134,12 +134,12 @@ git clone https://github.com/lupengbo/metaphysics-classics-guide.git
 - 增加分析示例库
 - 优化公开发布时的边界表达
 
-## Disclaimer
+## 免责声明
 
 本技能涉及的命理、八字、占卜、风水、走势推演等内容，均基于传统术数体系与历史文献脉络整理，仅供文化研究、学习参考、娱乐讨论与个人思考使用。
 
 不应将其视为对现实结果的保证，也不构成医疗、法律、投资等专业建议。
 
-## License
+## 许可证
 
 本项目使用 **MIT License**。

@@ -1,60 +1,60 @@
-# Safety and Positioning
+# 安全边界与公开定位
 
-## Recommended public positioning
+## 推荐的公开定位
 
-Position this skill as:
-- classical studies assistant
-- terminology and system organizer
-- reading roadmap generator
-- comparative guide for traditional metaphysics texts
+建议把这个技能定位为：
+- 传统术数经典学习助手
+- 术语与体系整理助手
+- 阅读路径规划助手
+- 传统玄学文献对比与导读助手
 
-Avoid positioning it as:
-- guaranteed divination engine
-- disease treatment advisor
-- curse / ritual execution helper
-- certainty-based fate prediction system
+不建议定位为：
+- 保证应验的占断引擎
+- 疾病治疗建议工具
+- 符咒 / 仪式执行助手
+- 确定性命运预测系统
 
-## Safe wording patterns
+## 推荐表达方式
 
-Use phrases like:
-- “按传统术数体系的说法”
-- “在该经典脉络中，通常这样理解”
-- “这是历史文献中的观点，不等于现代科学结论”
-- “更适合作为文化与文本研究材料来理解”
+建议多使用这类说法：
+- “按传统术数体系的常见理解”
+- “在该经典脉络中，通常这样看”
+- “这是历史文献里的观点，不等于现代科学结论”
+- “更适合作为文化、文本与知识体系研究材料理解”
 
-Avoid phrases like:
+尽量避免这类说法：
 - “一定会”
 - “保证应验”
 - “可以治好”
 - “必须这样做否则会出事”
 
-## For medical / healing requests
+## 遇到医疗 / 治病类问题时
 
-Always add a line like:
-- “涉及治病、祝由、符咒等内容时，这里只作历史文化介绍，不替代医生诊断与治疗建议。”
+建议默认补一句：
+- “涉及治病、祝由、符咒等内容时，这里仅作历史文化介绍，不替代医生诊断与治疗建议。”
 
-## For predictive requests
+## 遇到预测类问题时
 
-Always frame as:
-- symbolic system
-- traditional interpretive model
-- historical school doctrine
+建议统一表述为：
+- 传统术数视角
+- 传统解释框架
+- 历史流派中的一种理解方式
 
-Not as objective certainty.
+而不是把它写成客观确定事实。
 
-## Good open-source scope
+## 更适合公开开源的范围
 
-The safest and most reusable open-source scope is:
-- book summaries
-- concept maps
-- school comparisons
-- reading order design
-- glossary generation
-- educational article drafting
+相对更稳、更适合复用的公开范围包括：
+- 书籍总结
+- 概念地图
+- 流派对比
+- 阅读顺序设计
+- 术语解释
+- 科普文章或研究草稿起稿
 
-## Skill publishing note
+## 技能发布时的注意事项
 
-If packaging for public release:
-- keep the description explicit about educational use
-- include a boundary sentence in SKILL.md
-- do not bundle harmful ritual instructions as “how-to” workflows
+如果要对外发布：
+- 描述里要明确它偏学习、整理、研究用途
+- 在 `SKILL.md` 里保留边界说明
+- 不要把危险或容易被误用的仪式类内容写成可直接执行的“操作流程”
