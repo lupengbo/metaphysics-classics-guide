@@ -83,6 +83,8 @@
 - `references/safety-and-positioning.md`：安全边界与公开定位
 - `references/output-templates.md`：常用输出模板
 - `references/bazi-analysis-template.md`：八字 / 四柱 / 命盘分析模板
+- `references/divination-analysis-template.md`：占卜分析模板
+- `references/trend-forecast-template.md`：走势预测模板
 
 ## 安装教程
 
@@ -118,12 +120,16 @@ git clone https://github.com/lupengbo/metaphysics-classics-guide.git
 - 看一下这个四柱命盘
 - 帮我排八字并做分析
 - 按八字帮我看一下事业和财运
+- 帮我占卜一下这个事能不能成
+- 帮我看一下未来半年走势
 
 ## v1.1.0
 
 - 增加免责声明
 - 补充玄学分析与走势解读场景说明
 - 增加八字 / 四柱 / 命盘分析模板
+- 增加占卜分析模板
+- 增加走势预测模板
 - 优化公开发布时的边界表达
 
 ## Disclaimer
