@@ -85,6 +85,8 @@
 - `references/bazi-analysis-template.md`：八字 / 四柱 / 命盘分析模板
 - `references/divination-analysis-template.md`：占卜分析模板
 - `references/trend-forecast-template.md`：走势预测模板
+- `references/classical-analysis-basis.md`：经典依据层整理
+- `references/interactive-intake.md`：交互式信息采集建议
 
 ## 安装教程
 
@@ -130,6 +132,8 @@ git clone https://github.com/lupengbo/metaphysics-classics-guide.git
 - 增加八字 / 四柱 / 命盘分析模板
 - 增加占卜分析模板
 - 增加走势预测模板
+- 增加经典依据层整理
+- 增加交互式信息采集建议
 - 优化公开发布时的边界表达
 
 ## Disclaimer
